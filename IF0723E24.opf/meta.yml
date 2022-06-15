@@ -1,0 +1,35 @@
+id: IF0723E24
+source: https://www.lotsawahouse.org
+source_file: null
+initial_creation_type: input
+imported: '2022-06-15T20:12:41.116606'
+last_modified: '2022-06-15T20:12:41.116632'
+parser: null
+source_metadata:
+  title: Smṛtijñānakīrti
+  language: en
+  description: 'Texts by and about the famous 11th-century Indian paṇḍita Smṛtijñānakīrti
+    (dran pa''i ye shes grags pa):'
+  volume:
+    fE6B9:
+      title: 'Great Treasury of Siddhis: A Guru Yoga of Paṇchen Smṛti'
+      base_file: fE6B9.txt
+      order: 1
+      parent: Guru Yoga
+    f4A90:
+      title: 'Intensely Brilliant Wisdom: In Praise of the Great Elder Smṛtijñāna'
+      base_file: f4A90.txt
+      order: 2
+      parent: Praise
+    fAF26:
+      title: Prayer to Smṛtijñānakīrti
+      base_file: fAF26.txt
+      order: 3
+      parent: Prayers
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
